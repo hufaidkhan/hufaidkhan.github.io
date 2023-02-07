@@ -4,7 +4,7 @@ module.exports = {
     'Experienced multi skilled professional delivers quality results',
   siteKeywords:
     'Hufaid Khan, Hufaidkhan, hufaid khan portfolio, software engineer, web developer, javascript, javacript, svvv',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://hufaidkhan.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
